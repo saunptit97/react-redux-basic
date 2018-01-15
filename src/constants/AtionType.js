@@ -1,0 +1,2 @@
+export const DETAIL_STUDENT = "DETAIL_STUDENT ";
+export const DELETE_STUDENT = "DELETE_STUDENT ";
